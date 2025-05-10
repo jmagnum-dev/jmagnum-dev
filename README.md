@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a computing science and economics student at The King's University. I'm interested in software engineering, web design, and functional programming.
+
+I can be reached at jettmagnum42@gmail.com
+
+
